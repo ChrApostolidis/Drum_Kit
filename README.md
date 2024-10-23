@@ -1,6 +1,9 @@
 # Drum Kit 🥁
 This project is a simple web-based drum kit. It allows users to play drum sounds by either clicking on the buttons displayed on the webpage or pressing the corresponding keys on their keyboard. It's a fun way to create some beats!
 
+## Demo 
+You can try it out [here](https://chrapostolidis.github.io/Drum_Kit/).
+
 ## Features
 * Play drum sounds by clicking the on-screen buttons.
 * Use keyboard keys W, A, S, D, J, K, L to play sounds.
